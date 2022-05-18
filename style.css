@@ -1,0 +1,28 @@
+
+
+
+.menu{
+    width:100%;
+    display:flex;
+    font-size:50px;
+    justify-content: space-between;
+    align-items: center;
+}
+ .foto img{
+    border-radius: 30px;
+width: 100%;
+}
+.card{
+    text-align:  center;
+    width:100%;
+}
+
+.card2{
+    text-align:  center;
+    width:100%;
+}
+.card3{
+    text-align:  center;
+    width:100%;
+}
+
