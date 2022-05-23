@@ -1,28 +1,26 @@
 
-
-
 .menu{
     width:100%;
     display:flex;
     font-size:50px;
     justify-content: space-between;
     align-items: center;
+ 
 }
- .foto img{
+ .foto{
+   margin:0 auto;
     border-radius: 30px;
-width: 100%;
+    width:50%;
 }
-.card{
-    text-align:  center;
-    width:100%;
+.containerphone{
+    width: 100%;
+    background-color: rgba(199, 196, 199, 0.137);
 }
-
-.card2{
-    text-align:  center;
-    width:100%;
+.card-body{
+    width: 100%;
 }
-.card3{
-    text-align:  center;
-    width:100%;
+.cardf{
+    margin-top:30px;
+    background-color: rgba(199, 196, 199, 0.137);
+    color:black;
 }
-
