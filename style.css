@@ -8,13 +8,14 @@
  
 }
  .foto{
-   margin:0 auto;
+  
     border-radius: 30px;
     width:50%;
 }
 .containerphone{
     width: 100%;
     background-color: rgba(199, 196, 199, 0.137);
+    align-items: center;
 }
 .card-body{
     width: 100%;
@@ -25,10 +26,16 @@
     color:black;
 }
 
-.containerphone2{
+.containertable{
     width: 100%;
     background-color: rgba(199, 196, 199, 0.137);
 }
+
+.bg{
+    background-image: url("");
+}
+
+
 
 
 
