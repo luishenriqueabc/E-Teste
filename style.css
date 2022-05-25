@@ -32,7 +32,26 @@
 }
 
 .bg{
-    background-image: url("");
+    background-image: url("img/abbbb.jpg");
+    height:80%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+.bg{
+    color:White;
+    align-items: center;
+    padding:20%;
+    text-align: justify;
+    font-weight: 300;
+}
+.bg p{
+    text-align: justify;
+}
+.card-img-top{
+    width:250px;
+    height:250px;
 }
 
 
