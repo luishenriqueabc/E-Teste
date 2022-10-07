@@ -1,7 +1,4 @@
-# Criação do Ecad.Modle para tester de prática.
-
-Link do Site Oficial: https://ecad.ifspcaraguatatuba.edu.br/login/index.php
-
+# Criação de E-comerce para teste de prática.
 Criado com Bootstrap.
-
+Responsivo.
 Autor: Luis Henrique
